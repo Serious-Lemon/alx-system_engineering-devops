@@ -1,4 +1,2 @@
 #!/bin/bash
-cd
-cd ..
-touch mkdir my_first_directory tmp/
+mkdir my_first_directory /tmp
